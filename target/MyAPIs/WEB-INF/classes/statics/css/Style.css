@@ -1,0 +1,13 @@
+#box{
+    width: 400px;
+    padding: 2%;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px auto;
+    background: #67d8e0;
+}
+
+.login{
+    width: 49%;
+}
+

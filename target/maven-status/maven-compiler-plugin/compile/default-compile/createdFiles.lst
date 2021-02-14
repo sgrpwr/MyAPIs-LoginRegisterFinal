@@ -1,0 +1,6 @@
+com\sagar\controller\LoginController.class
+com\sagar\model\UserRegDTO.class
+com\sagar\model\UserLogin.class
+com\sagar\config\WebXmlAppConfig.class
+com\sagar\config\SpringApplicationConfig.class
+com\sagar\controller\UserRegistrationController.class
